@@ -1,0 +1,14 @@
+[
+    {
+        "activityName" : "energy",
+        "activityId" : [
+            {"name": "Unknown", "id": "199447df-a5a5-462f-8dcd-dcada8c7997b"},
+            {"name": "Coal", "id": "eed133a9-6b9a-4890-b838-019839ac1cad"},
+            {"name": "Gas", "id": "ec217a20-6c67-4365-a6d9-2bc2b66aacb5"},
+            {"name": "Hydro", "id": "c4dfc4fa-d795-4128-b0ad-29ebd7d8613b"},
+            {"name": "Nuclear", "id": "81430cba-d5a3-42c7-a3e1-9062fe45949a"},
+            {"name": "Solar", "id": "a4b8c552-380b-4b9d-a252-e6d43a53c003"},
+            {"name": "Wind", "id": "86996391-84d1-4323-9c49-dd007dd13d7d"}
+        ]
+    }
+]
