@@ -10,5 +10,17 @@
             {"name": "Solar", "id": "a4b8c552-380b-4b9d-a252-e6d43a53c003"},
             {"name": "Wind", "id": "86996391-84d1-4323-9c49-dd007dd13d7d"}
         ]
+    },
+    {
+        "activityName": "fuel",
+        "activityId": [
+            {"name": "Fuel", "id": "bcc20692-49f0-42cc-9ef9-3133769c6d45"}
+        ]
+    },
+    {
+        "activityName": "water",
+        "activityId": [
+            {"name": "Water", "id": "1eed671c-7e3d-44e2-85f5-57dc86372cea"}
+        ]
     }
 ]

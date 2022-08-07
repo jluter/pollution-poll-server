@@ -1,0 +1,452 @@
+[
+  {
+    "State": "Alaska",
+    "priceTotal": 450,
+    "priceElec": 118,
+    "priceInternet": 50,
+    "priceNatGas": 164,
+    "priceCable": 50,
+    "priceWater": 68
+  },
+  {
+    "State": "Hawaii",
+    "priceTotal": 436,
+    "priceElec": 160,
+    "priceInternet": 45,
+    "priceNatGas": 122,
+    "priceCable": 45,
+    "priceWater": 64
+  },
+  {
+    "State": "Connecticut",
+    "priceTotal": 406,
+    "priceElec": 147,
+    "priceInternet": 38,
+    "priceNatGas": 107,
+    "priceCable": 45,
+    "priceWater": 69
+  },
+  {
+    "State": "West Virginia",
+    "priceTotal": 364,
+    "priceElec": 121,
+    "priceInternet": 38,
+    "priceNatGas": 69,
+    "priceCable": 45,
+    "priceWater": 91
+  },
+  {
+    "State": "Ohio",
+    "priceTotal": 348,
+    "priceElec": 103,
+    "priceInternet": 25,
+    "priceNatGas": 148,
+    "priceCable": 45,
+    "priceWater": 27
+  },
+  {
+    "State": "Alabama",
+    "priceTotal": 340,
+    "priceElec": 149,
+    "priceInternet": 35,
+    "priceNatGas": 81,
+    "priceCable": 45,
+    "priceWater": 30
+  },
+  {
+    "State": "Indiana",
+    "priceTotal": 340,
+    "priceElec": 118,
+    "priceInternet": 30,
+    "priceNatGas": 122,
+    "priceCable": 40,
+    "priceWater": 30
+  },
+  {
+    "State": "Kentucky",
+    "priceTotal": 339,
+    "priceElec": 116,
+    "priceInternet": 35,
+    "priceNatGas": 94,
+    "priceCable": 45,
+    "priceWater": 49
+  },
+  {
+    "State": "Georgia",
+    "priceTotal": 339,
+    "priceElec": 123,
+    "priceInternet": 30,
+    "priceNatGas": 118,
+    "priceCable": 40,
+    "priceWater": 28
+  },
+  {
+    "State": "Florida",
+    "priceTotal": 337,
+    "priceElec": 129,
+    "priceInternet": 30,
+    "priceNatGas": 105,
+    "priceCable": 40,
+    "priceWater": 33
+  },
+  {
+    "State": "New Jersey",
+    "priceTotal": 330,
+    "priceElec": 107,
+    "priceInternet": 40,
+    "priceNatGas": 66,
+    "priceCable": 45,
+    "priceWater": 72
+  },
+  {
+    "State": "South Carolina",
+    "priceTotal": 328,
+    "priceElec": 134,
+    "priceInternet": 25,
+    "priceNatGas": 96,
+    "priceCable": 40,
+    "priceWater": 33
+  },
+  {
+    "State": "Rhode Island",
+    "priceTotal": 328,
+    "priceElec": 131,
+    "priceInternet": 20,
+    "priceNatGas": 95,
+    "priceCable": 50,
+    "priceWater": 32
+  },
+  {
+    "State": "Arizona",
+    "priceTotal": 325,
+    "priceElec": 119,
+    "priceInternet": 20,
+    "priceNatGas": 82,
+    "priceCable": 40,
+    "priceWater": 64
+  },
+  {
+    "State": "Maryland",
+    "priceTotal": 319,
+    "priceElec": 123,
+    "priceInternet": 30,
+    "priceNatGas": 80,
+    "priceCable": 40,
+    "priceWater": 46
+  },
+  {
+    "State": "California",
+    "priceTotal": 315,
+    "priceElec": 114,
+    "priceInternet": 40,
+    "priceNatGas": 34,
+    "priceCable": 50,
+    "priceWater": 77
+  },
+  {
+    "State": "Pennsylvania",
+    "priceTotal": 314,
+    "priceElec": 110,
+    "priceInternet": 30,
+    "priceNatGas": 103,
+    "priceCable": 40,
+    "priceWater": 31
+  },
+  {
+    "State": "New York",
+    "priceTotal": 311,
+    "priceElec": 105,
+    "priceInternet": 30,
+    "priceNatGas": 96,
+    "priceCable": 50,
+    "priceWater": 30
+  },
+  {
+    "State": "Maine",
+    "priceTotal": 311,
+    "priceElec": 93,
+    "priceInternet": 45,
+    "priceNatGas": 104,
+    "priceCable": 45,
+    "priceWater": 24
+  },
+  {
+    "State": "Virginia",
+    "priceTotal": 310,
+    "priceElec": 124,
+    "priceInternet": 20,
+    "priceNatGas": 80,
+    "priceCable": 50,
+    "priceWater": 36
+  },
+  {
+    "State": "Massachusetts",
+    "priceTotal": 309,
+    "priceElec": 128,
+    "priceInternet": 30,
+    "priceNatGas": 77,
+    "priceCable": 40,
+    "priceWater": 34
+  },
+  {
+    "State": "Delaware",
+    "priceTotal": 308,
+    "priceElec": 112,
+    "priceInternet": 30,
+    "priceNatGas": 80,
+    "priceCable": 40,
+    "priceWater": 46
+  },
+  {
+    "State": "Missouri",
+    "priceTotal": 306,
+    "priceElec": 99,
+    "priceInternet": 20,
+    "priceNatGas": 108,
+    "priceCable": 40,
+    "priceWater": 39
+  },
+  {
+    "State": "Tennessee",
+    "priceTotal": 305,
+    "priceElec": 126,
+    "priceInternet": 30,
+    "priceNatGas": 66,
+    "priceCable": 40,
+    "priceWater": 43
+  },
+  {
+    "State": "Kansas",
+    "priceTotal": 304,
+    "priceElec": 106,
+    "priceInternet": 20,
+    "priceNatGas": 106,
+    "priceCable": 45,
+    "priceWater": 27
+  },
+  {
+    "State": "New Hampshire",
+    "priceTotal": 300,
+    "priceElec": 113,
+    "priceInternet": 30,
+    "priceNatGas": 90,
+    "priceCable": 40,
+    "priceWater": 27
+  },
+  {
+    "State": "Iowa",
+    "priceTotal": 299,
+    "priceElec": 94,
+    "priceInternet": 50,
+    "priceNatGas": 73,
+    "priceCable": 50,
+    "priceWater": 32
+  },
+  {
+    "State": "Texas",
+    "priceTotal": 298,
+    "priceElec": 130,
+    "priceInternet": 30,
+    "priceNatGas": 61,
+    "priceCable": 40,
+    "priceWater": 37
+  },
+  {
+    "State": "South Dakota",
+    "priceTotal": 291,
+    "priceElec": 115,
+    "priceInternet": 50,
+    "priceNatGas": 50,
+    "priceCable": 50,
+    "priceWater": 26
+  },
+  {
+    "State": "Mississippi",
+    "priceTotal": 287,
+    "priceElec": 131,
+    "priceInternet": 30,
+    "priceNatGas": 63,
+    "priceCable": 40,
+    "priceWater": 23
+  },
+  {
+    "State": "Michigan",
+    "priceTotal": 281,
+    "priceElec": 108,
+    "priceInternet": 30,
+    "priceNatGas": 74,
+    "priceCable": 40,
+    "priceWater": 29
+  },
+  {
+    "State": "Illinois",
+    "priceTotal": 280,
+    "priceElec": 87,
+    "priceInternet": 30,
+    "priceNatGas": 97,
+    "priceCable": 40,
+    "priceWater": 26
+  },
+  {
+    "State": "Oregon",
+    "priceTotal": 278,
+    "priceElec": 100,
+    "priceInternet": 30,
+    "priceNatGas": 32,
+    "priceCable": 40,
+    "priceWater": 76
+  },
+  {
+    "State": "Vermont",
+    "priceTotal": 278,
+    "priceElec": 101,
+    "priceInternet": 30,
+    "priceNatGas": 89,
+    "priceCable": 40,
+    "priceWater": 18
+  },
+  {
+    "State": "North Carolina",
+    "priceTotal": 277,
+    "priceElec": 114,
+    "priceInternet": 35,
+    "priceNatGas": 63,
+    "priceCable": 45,
+    "priceWater": 20
+  },
+  {
+    "State": "Wyoming",
+    "priceTotal": 276,
+    "priceElec": 90,
+    "priceInternet": 45,
+    "priceNatGas": 43,
+    "priceCable": 45,
+    "priceWater": 53
+  },
+  {
+    "State": "Wisconsin",
+    "priceTotal": 275,
+    "priceElec": 95,
+    "priceInternet": 40,
+    "priceNatGas": 77,
+    "priceCable": 45,
+    "priceWater": 18
+  },
+  {
+    "State": "Washington",
+    "priceTotal": 273,
+    "priceElec": 95,
+    "priceInternet": 30,
+    "priceNatGas": 33,
+    "priceCable": 40,
+    "priceWater": 75
+  },
+  {
+    "State": "North Dakota",
+    "priceTotal": 268,
+    "priceElec": 105,
+    "priceInternet": 30,
+    "priceNatGas": 62,
+    "priceCable": 40,
+    "priceWater": 31
+  },
+  {
+    "State": "Arkansas",
+    "priceTotal": 266,
+    "priceElec": 105,
+    "priceInternet": 30,
+    "priceNatGas": 65,
+    "priceCable": 40,
+    "priceWater": 26
+  },
+  {
+    "State": "Louisiana",
+    "priceTotal": 264,
+    "priceElec": 118,
+    "priceInternet": 20,
+    "priceNatGas": 55,
+    "priceCable": 50,
+    "priceWater": 21
+  },
+  {
+    "State": "Oklahoma",
+    "priceTotal": 261,
+    "priceElec": 100,
+    "priceInternet": 20,
+    "priceNatGas": 71,
+    "priceCable": 35,
+    "priceWater": 35
+  },
+  {
+    "State": "Montana",
+    "priceTotal": 257,
+    "priceElec": 92,
+    "priceInternet": 45,
+    "priceNatGas": 37,
+    "priceCable": 45,
+    "priceWater": 38
+  },
+  {
+    "State": "Nevada",
+    "priceTotal": 250,
+    "priceElec": 103,
+    "priceInternet": 20,
+    "priceNatGas": 56,
+    "priceCable": 45,
+    "priceWater": 26
+  },
+  {
+    "State": "Nebraska",
+    "priceTotal": 250,
+    "priceElec": 94,
+    "priceInternet": 20,
+    "priceNatGas": 68,
+    "priceCable": 45,
+    "priceWater": 23
+  },
+  {
+    "State": "Minnesota",
+    "priceTotal": 248,
+    "priceElec": 95,
+    "priceInternet": 30,
+    "priceNatGas": 55,
+    "priceCable": 40,
+    "priceWater": 28
+  },
+  {
+    "State": "Idaho",
+    "priceTotal": 243,
+    "priceElec": 95,
+    "priceInternet": 30,
+    "priceNatGas": 40,
+    "priceCable": 40,
+    "priceWater": 38
+  },
+  {
+    "State": "New Mexico",
+    "priceTotal": 242,
+    "priceElec": 80,
+    "priceInternet": 30,
+    "priceNatGas": 60,
+    "priceCable": 40,
+    "priceWater": 32
+  },
+  {
+    "State": "Colorado",
+    "priceTotal": 239,
+    "priceElec": 83,
+    "priceInternet": 30,
+    "priceNatGas": 47,
+    "priceCable": 40,
+    "priceWater": 39
+  },
+  {
+    "State": "Utah",
+    "priceTotal": 216,
+    "priceElec": 73,
+    "priceInternet": 30,
+    "priceNatGas": 35,
+    "priceCable": 40,
+    "priceWater": 38
+  }
+]
