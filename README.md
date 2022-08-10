@@ -9,25 +9,18 @@ Installing this project. (Install this server and run it before running the clie
 https://github.com/jluter/pollution-poll
 
 
+
+To run this project.
+
 ```bash
   git clone https://github.com/jluter/pollution-poll-server
-```
-
-npm packages needed to run this project.
-
-```bash
-  npm install cors
-  npm install express
-  npm install uuid
+  npm install 
   npm install nodemon --global
   npm install nodemon --save-dev
-```
-
-To run the project: 
-
-```bash
   nodemon index.js
 ```
+
+
 
 
 ## Features

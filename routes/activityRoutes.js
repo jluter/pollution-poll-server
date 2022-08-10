@@ -3,7 +3,6 @@ const router = express.Router()
 const fs = require('fs')
 const app = express();
 const cors = require("cors");
-const { v4: uuid } = require("uuid");
 
 app.use(cors());
 app.use(express.json());
